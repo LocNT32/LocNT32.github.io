@@ -24,10 +24,10 @@ body {
 
 /* Kiểu dáng cho phần đầu trang */
 .profile-header .avatar {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
-    border: 4px solid #00d2ff; /* Viền xanh đặc trưng của ngành tech */
+/* border: 4px solid #00d2ff;  Viền xanh đặc trưng của ngành tech */
     margin-bottom: 15px;
     object-fit: cover;
 }
